@@ -1,0 +1,14 @@
+{
+  "train_rows": 1077,
+  "validation_rows": 360,
+  "test_rows": 360,
+  "selected_gamma": 0.01,
+  "validation_standardized_mse": {
+    "0.001": 0.9114808096377132,
+    "0.01": 0.7829042304081734,
+    "0.1": 0.8762256299541664
+  },
+  "pca_test_standardized_mse": 0.668711062022954,
+  "kernel_pca_test_standardized_mse": 0.7356763153655891,
+  "scope": "reconstruction in standardized feature space; gamma chosen without test data"
+}
