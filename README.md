@@ -1,2 +1,3 @@
 # digit-manifold-compression
-Validation-selected kernel PCA and held-out reconstruction comparisons on offline handwritten digit data.
+
+Reproducible analysis; see data/README.md for input provenance.
